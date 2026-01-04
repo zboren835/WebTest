@@ -6,8 +6,10 @@
 
 ## 實現功能
 - LoginApi_Test
+    1. RestAPI：Post
 - RegisterApi_Test
+    1. RestAPI：Post
 - SelectApi_Test
-
+    1. RestAPI：Get
 ## 測試工具
 - Postman
