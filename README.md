@@ -6,10 +6,10 @@
 
 ## 實現功能
 - LoginApi_Test
-    1. RestAPI：Post
+    1. 通訊方式：Post
 - RegisterApi_Test
-    1. RestAPI：Post
+    1. 通訊方式：Post
 - SelectApi_Test
-    1. RestAPI：Get
+    1. 通訊方式：Get
 ## 測試工具
 - Postman
