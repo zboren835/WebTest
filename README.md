@@ -7,9 +7,12 @@
 ## 實現功能
 - LoginApi_Test
     1. 通訊方式：Post
+    2. API：http://localhost:5000/LoginApi/
 - RegisterApi_Test
     1. 通訊方式：Post
+    2. API：http://localhost:5000/RegisterApi/
 - SelectApi_Test
     1. 通訊方式：Get
+    2. API：http://localhost:5000/SelectApi/
 ## 測試工具
 - Postman
