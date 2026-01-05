@@ -15,13 +15,18 @@
 - LoginApi_Test
     1. 通訊方式：Post
     2. API：http://localhost:5000/LoginApi/
-    3. Test：
-‵‵‵json
 - RegisterApi_Test
     1. 通訊方式：Post
     2. API：http://localhost:5000/RegisterApi/
 - SelectApi_Test
     1. 通訊方式：Get
     2. API：http://localhost:5000/SelectApi/
+
+## 測試
+```bash
+git clone https://github.com/yourname/project.git
+cd project
+docker compose up -d
+
 ## 測試工具
 - Postman
