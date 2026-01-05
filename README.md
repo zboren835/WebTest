@@ -9,6 +9,7 @@
 - 程式設計：Python3.14.2
 - 資料庫：MySQL
 - 軟體：Visual Studio Code
+- 管理套件：Python(uv)
 - 套件：flask、mysql-connector-python
 
 ## 實現功能(Python)-程式碼
