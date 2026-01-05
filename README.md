@@ -29,6 +29,3 @@
     "account":"aa123",
     "password":"a123"
 }
-
-## 測試工具
-- Postman
