@@ -16,11 +16,7 @@
     1. 通訊方式：Post
     2. API：http://localhost:5000/LoginApi/
     3. Test：
-        ‵‵‵json
-            {
-                "account":"aa123",
-                "password":"a123"
-            }
+‵‵‵json
 - RegisterApi_Test
     1. 通訊方式：Post
     2. API：http://localhost:5000/RegisterApi/
