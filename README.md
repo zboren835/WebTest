@@ -11,7 +11,7 @@
 - 軟體：Visual Studio Code
 - 套件：flask、mysql-connector-python
 
-## 實現功能(Python)-程式碼：RunApi.py + Database.py
+## 實現功能(Python)-程式碼
 - LoginApi_Test
     1. 通訊方式：Post
     2. API：http://localhost:5000/LoginApi/
