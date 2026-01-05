@@ -23,10 +23,12 @@
     2. API：http://localhost:5000/SelectApi/
 
 ## 測試
-```bash
-git clone https://github.com/yourname/project.git
-cd project
-docker compose up -d
+1.LoginApi_Test：
+```json
+{
+    "account":"aa123",
+    "password":"a123"
+}
 
 ## 測試工具
 - Postman
