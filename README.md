@@ -30,6 +30,12 @@
     "password":"a123"
 }
 ```
+結果：
+```json
+{
+    "Result":0
+}
+```
 結論：
 若Result為0 ==>「登入失敗」，
 若Result為1 ==>「登入成功」！<br>
@@ -40,6 +46,12 @@
     "account":"aa123",
     "password":"a123"
 }
+結果：
+```json
+{
+    "Result":0
+}
+```
 ```
 結論：
 若Result為1 ==>「註冊成功」,
