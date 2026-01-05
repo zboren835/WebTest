@@ -29,3 +29,6 @@
     "account":"aa123",
     "password":"a123"
 }
+結論：
+若Result為0 ==>「登入失敗」
+若Result為1 ==>「登入成功」
