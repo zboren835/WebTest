@@ -19,7 +19,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 uv venv
 source .venv/bin/activate
 uv init
-uv add 套件名稱
+uv add flask
 ```
 
 ## 實現功能(Python)-程式碼
