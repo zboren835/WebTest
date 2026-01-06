@@ -11,15 +11,12 @@
 - 軟體：Visual Studio Code
 - 套件：flask、mysql-connector-python
 
-## 建立虛擬環境
+## 建立虛擬環境(enviroment.sh)
 1. 好處：每個專案都有自己獨立的 Python 與套件世界
 2. 下載套件指令：
 ```terminal
-curl -LsSf https://astral.sh/uv/install.sh | sh
-uv venv
-source .venv/bin/activate
-uv init
-uv add flask
+chmod +x enviroment.sh
+./enviroment.sh
 ```
 
 ## 實現功能(Python)-程式碼
