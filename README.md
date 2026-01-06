@@ -8,6 +8,7 @@
 - 系統：Ubuntu24.04
 - 程式設計：Python3.14.2
 - 資料庫：MySQL
+- 資料庫環境：Docker
 - 軟體：Visual Studio Code
 - 套件：flask、mysql-connector-python
 
