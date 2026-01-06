@@ -66,7 +66,7 @@ docker compose down (一鍵停止服務)
 結果：
 ```json
 {
-    "Result":0
+    "Result":1
 }
 ```
 結論：
