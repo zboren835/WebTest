@@ -18,6 +18,13 @@
 chmod +x enviroment.sh
 ./enviroment.sh
 ```
+## 資料庫環境(docker-compose.yml)
+1. 好處：版本隔離、自動化 / CI/CD 友好
+2. 指令：
+```terminal
+docker compose up -d (一鍵啟動服務)
+docker compose down (一鍵停止服務)
+```
 
 ## 實現功能(Python)-程式碼
 - LoginApi_Test
